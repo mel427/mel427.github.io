@@ -10,7 +10,7 @@ My GitHub page is http://github.com/mel427.
 
 * Lab 3
 
-    Lab 3, part 2 was a favorite because it was the first challenging lab I had. For the first time I realized what type of functions coding can have. In this example, we found the number of days between 2 different dates. I never thought of doing this, but after making an implementing a code that can do this, I began to wonder how much can coding really do.
+    Lab 3, part 2 was a favorite because it was the first challenging lab I had. For the first time I realized what type of functions coding can have. In this example, we found the number of days between 2 different dates. I never thought of doing this, but after creating and implementing a code that can do this, I began to wonder how much can coding really do.
 
 * Lab 4
 
