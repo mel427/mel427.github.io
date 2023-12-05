@@ -18,4 +18,4 @@ My GitHub page is http://github.com/mel427.
     
 * Lab 11
 
-    Lab 11, part 1 was a favorite because it was the first time I used classes and objects. I was able to understand how these classes could be used as well as having multiple files to separate the content. At first this was a bit difficult to understand, but I liked that I was being challenged to think outside the box. Furthermore, I used a for loop as well as 2D vectors in order to extract different topics related to the lab. Through this lab I implemented various difficult topics and learned a lot. 
+    Lab 11, part 1 was a favorite because it was the first time I used classes and objects. I was able to understand how these classes could be used as well as having multiple files to separate the content. At first this was a bit difficult to understand, but I liked that I was being challenged to think outside the box. Furthermore, I used a for loop as well as 2D vectors in order to extract different topics related to the lab. Through this lab I implemented various difficult topics and learned a lot.
